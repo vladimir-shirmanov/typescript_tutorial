@@ -1,0 +1,26 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "rx js practice",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jcf": "^1.2.3",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "popper.js": "^1.14.3",
+    "rxjs": "^6.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
